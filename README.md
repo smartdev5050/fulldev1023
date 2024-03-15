@@ -1,9 +1,12 @@
-# 💫 About Me:
-In my 10+ years of professional experience, I have been working relentlessly to help my customers turn their ideas into working and successful applications through designing, developing, and delivering quality software.
-I make myself available around the clock so I can respond quickly and efficiently to problems as they arise. I handle every aspect of software development and have a very diverse skill set.
-My passion lies in developing web and mobile applications with Python, JavaScript, SQL Database, and DevOps.
-I am so passionate about what I do that I spend a lot of time learning about new techniques and platforms for web development. I learn something new every day!
+<p align="center">
+  <a href="https://github.com/maksymdev701">
+    <img src="./img/header.png" alt="Sniper" /></a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;6%2B%20years%20of%20coding%20experience;Always%20learning%20trending%20techs&font=Fira%20Code&center=true&width=440&height=45&color=lean&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 ![image](https://github.com/simbadevlop/simbadevlop/assets/161879015/8aa5af0f-9fd2-4851-ae08-52be5634f6df)
 Backend
