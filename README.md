@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/maksymdev701">
-    <img src="./img/header.png" alt="Sniper" /></a>
+    <img src="https://github.com//maksymdev701/maksymdev701/raw/main/img/header.png" alt="Sniper" /></a>
 </p>
 
 <p align="center">
