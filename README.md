@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a full-stack developer with a strong focus on 
   </a>
 </p>
 
-<h2 align="center">⚡ Tech Stack</h1>
 <table align="center">
   <tr>
     <td align="center" width="105">
